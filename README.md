@@ -1,5 +1,7 @@
 # mlops-homework
- 
+ Source: [GITHUB](https://github.com/bsr-the-mngrm/mlops-homework)
+
+
 - Válassz egy neked tetsző gépi tanulási feladatot, ahhoz adathalmazt és jupyter notebookokat, amik tartalmazzák az adat előkészítését és az ML modell tanítást.
 
 - Alkalmazz mindent, amit tanultunk a gyakorlaton, többek között: Mlflow tracking és model registry, Rest api, docker konténer, evidentlyAI, streamlit, airflow
